@@ -1,4 +1,4 @@
-import java.io.BufferedReader;
+﻿import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -7,6 +7,7 @@ import java.io.PrintWriter;
 
 //A01227416
 //Guillermo García Contreras
+//With this comment from Alfonso
 
 public class UPLGaiming {
 	
